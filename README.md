@@ -84,7 +84,7 @@ The letters א-ו-י-ה are called soft letters (*ḥurūf al-madd wa-l-līn*) b
 
 **2. Pesiq** - When there is a *pesiq* between two words, it separates them, and ב-ג-ד-כ-פ-ת are with *dagesh*. For example, "עָשׂ֣וּ ׀ כָּלָ֑ה" (Genesis 18:21)—the כ from כלה should be *rafe* were it not for the *pesiq* that came between the words.
 
-**3. Dahiq** - This is the pressure and compression that occurs between words. For example, "וְהִזְהַרְתָּה בָּם" (Deuteronomy 31:28)—the ב from בם is with *dagesh* because there is only one cantillation mark between the *shofar* on the ע of והזהרתם and the ב from בם.
+**3. Dahiq** - This is the pressure and compression that occurs between words. For example, "וְאָעִ֣ידָה בָּ֔ם" (Deuteronomy 31:28)—the ב from בם is with *dagesh* because there is only one cantillation mark between the *shofar* on the ע of וְאָעִ֣ידָה and the ב from בָּ֔ם.
 
 **4. Ati Meriḥiq** - When a word ending with א-ו-י-ה has two or more cantillation marks and the following word begins with ב-ג-ד-כ-פ-ת, the first word is compressed and attached to the ב-ג-ד-כ-פ-ת word, and the ב-ג-ד-כ-פ-ת letter is with *dagesh*.
 
