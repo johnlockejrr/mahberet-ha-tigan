@@ -76,7 +76,7 @@ The letters א-ו-י-ה are called soft letters (*ḥurūf al-madd wa-l-līn*) b
 
 ### The Nine Exceptions
 
-**1. Ogeira** - This occurs in seven places only in all of Scripture:
+**1. Ogira** - This occurs in seven places only in all of Scripture:
 - Four in שירת הים" גָאֹ֣ה גָּאָ֔ה" (Exodus 15:1-19), "כִּֽי־גָאֹ֣ה גָּאָ֔ה" (Exodus 15:1), "מִ֥י כָּמֹ֖כָה נֶאְדָּ֣ר בַּקֹּ֑דֶשׁ" (Exodus 15:11), "יִדְּמ֣וּ כָּאָ֑בֶן" (Exodus 15:16)
 - One in Isaiah 54:12: "וְשַׂמְתִּ֤י כַּֽדְכֹד֙ שִׁמְשֹׁתַ֔יִךְ"
 - One in Jeremiah 20:9: "וְנִלְאֵ֥יתִי כַּֽלְכֵ֖ל וְלֹ֥א אוּכָֽל"
@@ -106,7 +106,7 @@ The vowel points (*nuqūṭ*) are called *neggamot*, and we have explained the n
 
 **1. Ḥolam** - A dot between letters from above, like או. It is also called *melo pum* because it fills the entire mouth when pronounced.
 
-**2. Qamatz** - A line with a dot below it, positioned under the letter from below, like בָרָא. It is derived from "וְקָמַץ הַכֹּהֵן" (Leviticus 5:12) because it gathers and compresses the mouth.
+**2. Qamatz** - A line with a dot below it, positioned under the letter from below, like בָרָא. It is derived from "וְקָמַ֣ץ הַכֹּהֵ֣ן" (Leviticus 5:12) because it gathers and compresses the mouth.
 
 **3. Pataḥ** - A line only, positioned from below, like שַעַר. It is called *pataḥ* because it opens the mouth.
 
@@ -114,7 +114,7 @@ The vowel points (*nuqūṭ*) are called *neggamot*, and we have explained the n
 
 **5. Tzere** - Two dots from below, like תֵבֵל. It is also called *qamatz qatan*.
 
-**6. Ḥiriq** - One dot from below, like עִיר. It is derived from "וְחָרַק עָלָיו שִׁנָּיו" (Psalms 34:12) because it grinds the teeth.
+**6. Ḥiriq** - One dot from below, like עִיר. It is derived from "וְחֹרֵ֖ק עָלָ֣יו שִׁנָּֽיו" (Psalms 37:12) because it grinds the teeth.
 
 **7. Shuruq** - Has two forms:
    - When there is ו in the word, it is a dot inside the ו, like צוּר
@@ -143,25 +143,25 @@ Know that the shva (*shva*) has two types: quiescent (*sākin*) and mobile (*mut
 
 ### Quiescent Shva Rules
 
-Every quiescent shva is always followed by *dagesh* without exception, like דרכם לפני (Ezekiel 36:17)—the kaf is with *dagesh*, but the shva on the head is quiescent. This is the case with all similar instances. These are the rules of the quiescent shva.
+Every quiescent shva is always followed by *dagesh* without exception, like דַרְכָּ֖ם לְפָנָֽי (Ezekiel 36:17)—the kaf is with *dagesh*, but the shva on the head is quiescent. This is the case with all similar instances. These are the rules of the quiescent shva.
 
 ### Mobile Shva Rules
 
-The mobile shva has many rules. Every mobile shva is never followed by *dagesh* but always by *rafe*, as we explained, like זכר (Exodus 32:13) and all similar cases, except for the word שתי ושתים, where the tav is always with *dagesh*. Therefore, they made it so that when reading, it appears as if saying אשתי אשתים, because the shva becomes quiescent and the tav emerges with *dagesh*.
+The mobile shva has many rules. Every mobile shva is never followed by *dagesh* but always by *rafe*, as we explained, like זְכֹ֡ר (Exodus 32:13) and all similar cases, except for the word שְׁתֵּי שְׁתַּיִם, where the tav is always with *dagesh*. Therefore, they made it so that when reading, it appears as if saying אֶשְׁתֵּי אֶשְׁתַּיִם, because the shva becomes quiescent and the tav emerges with *dagesh*.
 
-The mobile shva only occurs at the beginning of a word like שמע, or in the middle when preceded by a quiescent shva like וישמעו, or when the letter with the shva has *dagesh*, then it emerges necessarily and is followed by *rafe* like מקדש.
+The mobile shva only occurs at the beginning of a word like שְׁמַע, or in the middle when preceded by a quiescent shva like וְיִשְׁמְעוּ, or when the letter with the shva has *dagesh*, then it emerges necessarily and is followed by *rafe* like מִקְדָּשׁ.
 
 ### Shva Articulation Rules
 
-When a mobile shva is followed by a letter from א-ח-ה-ע, that shva is read like the vowel point on the א-ח-ה-ע letter, but in a restrained manner, not complete. Like לעולם—the lamed is read with *ḥolam* restrained, like עלי עין. Similarly, ואמר פרעה (Exodus 14:3)—the vav with *qamatz* restrained. And בחר לנו אנשים (Exodus 17:8)—the bet with *pataḥ* restrained. And בארץ מצרים—the bet with *segol* restrained. And ראה الرأس—with *tzere* restrained. And דעי (Jeremiah 3:10)—the dalet with *ḥiriq* restrained.
+When a mobile shva is followed by a letter from א-ח-ה-ע, that shva is read like the vowel point on the א-ח-ה-ע letter, but in a restrained manner, not complete. Like לְעוֹלָם—the lamed is read with *ḥolam* restrained, like עֲלֵי עַיִן. Similarly, וְאָמַ֤ר פַּרְעֹה֙ (Exodus 14:3)—the vav with *qamatz* restrained. And בְּחַר־לָ֣נוּ אֲנָשִׁ֔ים (Exodus 17:9)—the bet with *pataḥ* restrained. And בְּאֶרֶץ מִצְרַיִם—the bet with *segol* restrained. And ראה الرأس—with *tzere* restrained. And דְּעִ֣י (Jeremiah 3:13)—the dalet with *ḥiriq* restrained.
 
 ### Shva with Ga'ya
 
-When ga'ya accompanies the shva, the shva emerges like the vowel point that follows it, whether it is a vowel point or not. Like והיה—the vav emerges with complete *qamatz* like אלהי, as if dotted וָהיה. Similarly, לעולם—as if dotted לֹעולם with complete *ḥolam*. This is the case with all vowel points.
+When ga'ya accompanies the shva, the shva emerges like the vowel point that follows it, whether it is a vowel point or not. Like וְהָיָה—the vav emerges with complete *qamatz* like אלהי, as if dotted וָהיה. Similarly, לעולם—as if dotted לֹעולם with complete *ḥolam*. This is the case with all vowel points.
 
 ### Shva with Yod
 
-Every mobile shva followed by a yod never emerges except with restrained *ḥiriq*, regardless of what vowel point is on the yod. Like ליוסף—the lamed with restrained *ḥiriq*, even though there is *ḥolam* after it. Similarly, לישוב (Numbers 26:24), ליבשה (Judges 7:25), ליצר (Numbers 26:49), לישוי (Numbers 44)—all with restrained *ḥiriq*.
+Every mobile shva followed by a yod never emerges except with restrained *ḥiriq*, regardless of what vowel point is on the yod. Like לְיוֹסֵף—the lamed with restrained *ḥiriq*, even though there is *ḥolam* after it. Similarly, לְיָשׁ֕וּב (Numbers 26:24), ליבשה (Judges 7:25), ליצר (Numbers 26:49), לישוי (Numbers 44)—all with restrained *ḥiriq*.
 
 ### Shva with Other Letters
 
