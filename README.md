@@ -54,21 +54,21 @@ This is the need of words for vowel points (*nuqūṭ*), which are the kings (*m
 
 ### The Fourth Necessity
 
-This is the cantillation marks (*ṭe'amim*) because through them meanings are distinguished, and the pause and connection are known, and the past and future are known, and the first and second are known. For example, "לֹא קֹמִי אוֹרִי כִּי בָא אוֹרֵךְ" (Isaiah 60:1) is different from "לְיוֹם קוּמִי לְעַד" (Zephaniah 3:8) and "יְהוָה אוֹרִי וּמִשְׁעִי" (Psalms 27:1), as will be understood by whoever contemplates this. Similarly, הַבָּאָה הַבָּאָה שְׁבוּ שְׁבוּ and the like—were it not for the distinction of cantillation marks and their arrangement for meanings, the meaning of a sentence would not be understood.
+This is the cantillation marks (*ṭe'amim*) because through them meanings are distinguished, and the pause and connection are known, and the past and future are known, and the first and second are known. For example, "ק֥וּמִי א֖וֹרִי כִּ֣י בָ֣א אוֹרֵ֑ךְ" (Isaiah 60:1) is different from "לְי֖וֹם קוּמִ֣י לְעַ֑ד" (Zephaniah 3:8) and "יְהֹוָ֤ה ׀ אוֹרִ֣י וְ֭יִשְׁעִי" (Psalms 27:1), as will be understood by whoever contemplates this. Similarly, הבֽאה הבאֽה שֽבו שבֽו and the like—were it not for the distinction of cantillation marks and their arrangement for meanings, the meaning of a sentence would not be understood.
 
 Thus, it became clear to you that cantillation marks are necessary to clarify meanings. This explains the necessities.
 
 ## Chapter 3: On the Rules of א-ו-י-ה and ב-ג-ד-כ-פ-ת
 
-Know that the letters in which *dagesh* and *rafe* are possible are six letters only, marked by ב-ג-ד-כ-פ-ת, because you say בּב, גּג, דּד, כּכ, פּפ, תּת. When a word begins with one of these six letters, it is sometimes with *dagesh* and sometimes with *rafe*.
+Know that the letters in which *dagesh* and *rafe* are possible are six letters only, marked by ב-ג-ד-כ-פ-ת, because you say בּ ב, גּ ג, דּ ד, כּ כ, פּ פ, תּ ת. When a word begins with one of these six letters, it is sometimes with *dagesh* and sometimes with *rafe*.
 
 ### The Rule of *Dagesh*
 
-The way to know this is to look at the word that precedes it. If the last letter of the preceding word is not from א-ו-י-ה, then the letter at the beginning of the second word is always with *dagesh*. For example, "בְּרֵאשִׁית בָּרָא" (Genesis 1:1)—the ב from ברא is with *dagesh* because it is from ב-ג-ד-כ-פ-ת and the last letter of the preceding word is ת, and ת is not from א-ו-י-ה. This is the case with all readings in this manner.
+The way to know this is to look at the word that precedes it. If the last letter of the preceding word is not from א-ו-י-ה, then the letter at the beginning of the second word is always with *dagesh*. For example, "בְּרֵאשִׁ֖ית בָּרָ֣א" (Genesis 1:1)—the ב from ברא is with *dagesh* because it is from ב-ג-ד-כ-פ-ת and the last letter of the preceding word is ת, and ת is not from א-ו-י-ה. This is the case with all readings in this manner.
 
 ### The Rule of *Rafe*
 
-If the last letter of the first word is from א-ו-י-ה and the cantillation mark on it is also a servant (*khādim*), then the first letter of the second word is always with *rafe*. For example, "וַאֶקְחָה פַּת־לֶחֶם" (Genesis 18:5)—the פ from פת became *rafe* because the last letter of ואקחה is ה, which is from א-ו-י-ה, and the cantillation mark on ואקחה is a servant, as will be explained when we mention the cantillation marks.
+If the last letter of the first word is from א-ו-י-ה and the cantillation mark on it is also a servant (*khādim*), then the first letter of the second word is always with *rafe*. For example, "וְאֶקְחָ֨ה פַת־לֶ֜חֶם" (Genesis 18:5)—the פ from פת became *rafe* because the last letter of ואקחה is ה, which is from א-ו-י-ה, and the cantillation mark on ואקחה is a servant, as will be explained when we mention the cantillation marks.
 
 ### The Soft Letters
 
@@ -77,12 +77,12 @@ The letters א-ו-י-ה are called soft letters (*ḥurūf al-madd wa-l-līn*) b
 ### The Nine Exceptions
 
 **1. Ogeira** - This occurs in seven places only in all of Scripture:
-- Four in שירת הים: "גָּאֹה גָּאֹה" (Exodus 15:12), "כִּי גָּאֹה גָּאֹה" (Exodus 15:22), "מִי כָמֹכָה נֶאְדָּר בַּקֹּדֶשׁ" (Exodus 15:11), "יִדְּמוּ כָּאֶבֶן" (Exodus 15:16)
-- One in Isaiah 54:12: "וְשַׂמְתִּי כַּדְכֹד שִׁמְשֹתָיִךְ"
-- One in Jeremiah 20:9: "וְנִלְאֵיתִי כַּלְכֵל וְלֹא אוּכָל"
-- One in Daniel 5:11: "וְחָכְמָה כְּחָכְמַת אֱלֹהִים הַשְׁתַּכַּחַת בּוֹ"
+- Four in שירת הים" גָאֹ֣ה גָּאָ֔ה" (Exodus 15:1-19), "כִּֽי־גָאֹ֣ה גָּאָ֔ה" (Exodus 15:1), "מִ֥י כָּמֹ֖כָה נֶאְדָּ֣ר בַּקֹּ֑דֶשׁ" (Exodus 15:11), "יִדְּמ֣וּ כָּאָ֑בֶן" (Exodus 15:16)
+- One in Isaiah 54:12: "וְשַׂמְתִּ֤י כַּֽדְכֹד֙ שִׁמְשֹׁתַ֔יִךְ"
+- One in Jeremiah 20:9: "וְנִלְאֵ֥יתִי כַּֽלְכֵ֖ל וְלֹ֥א אוּכָֽל"
+- One in Daniel 5:11: "וְחׇכְמָ֥ה כְּחׇכְמַת־אֱלָהִ֖ין הִשְׁתְּכַ֣חַת בֵּ֑הּ"
 
-**2. Pesiq** - When there is a *pesiq* between two words, it separates them, and ב-ג-ד-כ-פ-ת are with *dagesh*. For example, "עֵשָׂו כָּלָה" (Genesis 18:22)—the כ from כלה should be *rafe* were it not for the *pesiq* that came between the words.
+**2. Pesiq** - When there is a *pesiq* between two words, it separates them, and ב-ג-ד-כ-פ-ת are with *dagesh*. For example, "עָשׂ֣וּ ׀ כָּלָ֑ה" (Genesis 18:21)—the כ from כלה should be *rafe* were it not for the *pesiq* that came between the words.
 
 **3. Dahiq** - This is the pressure and compression that occurs between words. For example, "וְהִזְהַרְתָּה בָּם" (Deuteronomy 31:28)—the ב from בם is with *dagesh* because there is only one cantillation mark between the *shofar* on the ע of והזהרתם and the ב from בם.
 
