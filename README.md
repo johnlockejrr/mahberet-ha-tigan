@@ -287,6 +287,254 @@ This treatise has provided a comprehensive guide to Hebrew grammar and cantillat
 
 The work demonstrates the sophisticated understanding of Hebrew linguistics in medieval Arabic scholarship and provides essential knowledge for proper reading and understanding of Biblical Hebrew texts.
 
+## Chapter 11: On the Rules of Shva (Servant Vowel)
+
+### The Shva Rules
+
+Know that the shva (*shva*) has two types: quiescent (*sākin*) and mobile (*mutaharrik*). The quiescent shva is that which has no vowel point after it, and the mobile shva is that which has a vowel point after it.
+
+### Quiescent Shva Rules
+
+Every quiescent shva is always followed by *dagesh* without exception, like דרכם לפני (Ezekiel 36:17)—the kaf is with *dagesh*, but the shva on the head is quiescent. This is the case with all similar instances. These are the rules of the quiescent shva.
+
+### Mobile Shva Rules
+
+The mobile shva has many rules. Every mobile shva is never followed by *dagesh* but always by *rafe*, as we explained, like זכר (Exodus 32:13) and all similar cases, except for the word שתי ושתים, where the tav is always with *dagesh*. Therefore, they made it so that when reading, it appears as if saying אשתי אשתים, because the shva becomes quiescent and the tav emerges with *dagesh*.
+
+The mobile shva only occurs at the beginning of a word like שמע, or in the middle when preceded by a quiescent shva like וישמעו, or when the letter with the shva has *dagesh*, then it emerges necessarily and is followed by *rafe* like מקדש.
+
+### Shva Articulation Rules
+
+When a mobile shva is followed by a letter from א-ח-ה-ע, that shva is read like the vowel point on the א-ח-ה-ע letter, but in a restrained manner, not complete. Like לעולם—the lamed is read with *ḥolam* restrained, like עלי עין. Similarly, ואמר פרעה (Exodus 14:3)—the vav with *qamatz* restrained. And בחר לנו אנשים (Exodus 17:8)—the bet with *pataḥ* restrained. And בארץ מצרים—the bet with *segol* restrained. And ראה الرأس—with *tzere* restrained. And דעי (Jeremiah 3:10)—the dalet with *ḥiriq* restrained.
+
+### Shva with Ga'ya
+
+When ga'ya accompanies the shva, the shva emerges like the vowel point that follows it, whether it is a vowel point or not. Like והיה—the vav emerges with complete *qamatz* like אלהי, as if dotted וָהיה. Similarly, לעולם—as if dotted לֹעולם with complete *ḥolam*. This is the case with all vowel points.
+
+### Shva with Yod
+
+Every mobile shva followed by a yod never emerges except with restrained *ḥiriq*, regardless of what vowel point is on the yod. Like ליוסף—the lamed with restrained *ḥiriq*, even though there is *ḥolam* after it. Similarly, לישוב (Numbers 26:24), ליבשה (Judges 7:25), ליצר (Numbers 26:49), לישוי (Numbers 44)—all with restrained *ḥiriq*.
+
+### Shva with Other Letters
+
+Every mobile shva followed by a letter other than א-ח-ה-ע and other than yod never emerges except with restrained *pataḥ*, without regard to the vowel point that follows it. Like בראשית, זכור, שמע, ככלות—all letters with restrained *pataḥ*.
+
+## Chapter 12: On the Special Rules for Vav (Conjunction)
+
+### Vav Conjunction Rules
+
+The conjunction vav (*vav ha-ḥibur*) has special characteristics with ב-מ-פ (bet, mem, pe). When vav comes before a word containing bet, mem, or pe, the vav never emerges except with *shuruq* like this always: ומה as if אומה, ופה as if אופה, ובא as if אובא—the vowel of the vav is dropped and it becomes like alef.
+
+Similarly, every vav with *shuruq* when followed by a quiescent letter like וזכרתם, וקראתם, ושמרתם—all are read with alef restrained, as if אזכרתם, אקראתם, אשמרתם. This is the convention of the language.
+
+## Chapter 13: On the Rules for Varying Vowel Points
+
+### Rules for Different Vowel Points in Different Words
+
+Like ממחרת ממחרת—sometimes with *qamatz* and sometimes with *pataḥ*. The way to know this is to look at the letter that follows it. If it is ה with *pataḥ* like ממחרת השבת (Leviticus 23:11), ממחרת הפסח (Numbers 33:3), then it is *pataḥ*. If there is no ה after it, then it is *qamatz* like וישבת המן ממחרת (Joshua 5:12).
+
+Similarly, אגג אגג—everything followed by mem becomes *pataḥ* like וירם מאגג מלכו (Numbers 24:7), אגג מעדנות (1 Samuel 15:32). If not followed by mem, then it is *qamatz* like ויאמר אגג אכן סר (1 Samuel 15:32).
+
+### Rules for חרבות וחרבות
+
+If the word is derived from חרב (sword), it is always with shva and *pataḥ* on the he. If derived from חרב (ruin), then the he is always with shva and *qamatz*.
+
+### Rules for אשה ואשה
+
+When followed by ה or ל or ע (from הל״ע), the shin is always with *segol* like אשה הוא ליי (Exodus 29:18), אשה ליי (Exodus 41), אשה עולה (Leviticus 28:19). If followed by others, it is always with *tzere* like אשה ריח (Leviticus 1:9).
+
+### Rules for למה ולמה
+
+When it has *dagesh* and when it has *rafe*. The way to know this is to look at the letter that follows it. If it is alef or ה or ע (from אה״ע), it is always with *rafe* like למה אמרת (Genesis 12:19), למה ייי (Psalms 9:1), למה עליתם (Judges 15:10), למה הבאתם (Numbers 20:4), except for five words after אה״ע that are with *dagesh*:
+
+1. למה הרגזתני (1 Samuel 28:15)
+2. למה הציתו עבדיך (2 Samuel 14:31)  
+3. למה אירא בימי רע (Psalms 49:6)
+4. למה היה כאבי לנצח (Jeremiah 15:18)
+5. למה אככה (2 Samuel 2:22)
+
+Their signs are: הרגיזני, העבד, יראתי, החלי, הכיתיו.
+
+When followed by other than אה״ע, it is always with *dagesh*, except for three: למה שמתני למפגע לך (Job 7:20), למה שכחתני (Psalms 42:10), למה זנחתני (Psalms 43:2). Their signs are: שמתני, משוכח, מוזנח.
+
+## Chapter 14: On the Detailed Explanation of Cantillation Marks
+
+### The Origin and Purpose of Cantillation Marks
+
+We have explained the benefit of cantillation marks and that they separate meanings from each other and clarify the meaning of a single word when it has multiple meanings. Like שבו—when the cantillation mark is on the shin, its meaning is "return." When the cantillation mark is on the bet, its meaning is "captive," derived from שביה like שבו ויבזו (Genesis 34:29).
+
+Similarly, הבֽאה הבאֽה—its meaning is "that which has entered." When the cantillation mark is on the alef, its meaning is "that which has entered" (that which will enter).
+
+### Historical Development
+
+These shapes and forms and names are what the early fathers agreed upon from the time of Ezra the Scribe or before him. They made this the shape of *qamatz*, this the shape of *pataḥ*, this the shape of *ḥolam*, this the shape of *tzere*, and so on for all vowel points. Similarly, this the shape of *zaqef*, this the shape of *etnaḥta*, this the shape of *zarka*, and so on for the rest.
+
+They called the elements of cantillation and the elements of service by these names by convention and made them with signs and symbols so that students might be guided by them and the community might be instructed through them.
+
+As it is said in Ezra: "וַיִּקְרְאוּ בַסֵּפֶר בְּתוֹרַת הָאֱלֹהִים מְפֹרָשׁ וְשׂוֹם שֶׂכֶל וַיָּבִינוּ בַּמִּקְרָא" (Nehemiah 8:8).
+
+### The Twelve Primary Cantillation Marks
+
+**1. Pazer** - The shape of a צ above the word  
+**2. Telisha** - A small circle at the head of the word  
+**3. Tarṣa** - Two vertical lines above the word  
+**4. Yetiv** - An inclined line at the edge of the word from above  
+**5. Zaqef** - Two dots with one above the other on the word  
+**6. Etnaḥta** - The shape of an inverted צ head under the word  
+**7. Zarka** - The shape of a fishhook at the edge of the word from above  
+**8. Legarmeh** - The shape of a *shofar* from below with *pesiq* after the word  
+**9. Revia** - A dot with one above the word  
+**10. Tevir** - The shape of a staff under the word with a dot  
+**11. Tifḥa** - The shape of a staff under the word inclined to the right  
+**12. Siluq** - Called *sof pasuq* because it only occurs at the end of verses
+
+### The Eight Servant Marks
+
+**1. Shofar** - The shape of a *shofar*  
+**2. Shofar Hafukh** - The shape of an inverted *shofar*  
+**3. Telisha Qetana** - Called *yareḥ ben yomo* because it is like the new moon  
+**4. Telisha Shemal** - The shape of *telisha* that is a cantillation mark  
+**5. Azla** - A staff above the word inclined to the right  
+**6. Merkha** - A staff under the word inclined to the left  
+**7. Darga** - The shape of a step  
+**8. Netuya** - The inclined one, also called *daḥuya*
+
+## Chapter 15: On the Variations in Cantillation Marks
+
+### Variations in Shapes and Names
+
+The cantillation marks and servants whose shapes and names we have explained may differ in their forms and some of their names:
+
+**Pazer** - When called *pazer metulaq*, its shape is like the head of צ as we explained. When its shape differs and is in this form ֡, it is called *pazer gadol* and also *qarnei parah*—their rule is the same in cutting.
+
+**Telisha** - Has two forms: when on the first letter of the word, it is a cantillation mark and cuts. When on the last letter of the word, it is a servant as we explained and does not cut, therefore *rafe* comes after it.
+
+**Tarṣa** - When there are two like ויאמר, when on the last vowel of the word it is in, it is also called *shnei gerishin*. When in the middle of the word, it is only one like ויאמר and is called *gerish ḥad*.
+
+**Zaqef** - When alone like ישראל לא ידע, it is called *qatan*. When with a staff like ויאמר, it is called *zaqef gadol*.
+
+**Zarka** - Never exists except with *segola* after it, which is the shape of three dots on the last letter of the word from above like ויאמר משה.
+
+### Special Marks
+
+**Shalshelet** - Like וימאן (Genesis 39:8)—it is also a cantillation mark and cuts, but was not counted with the cantillation marks because it is very rare and only exists in seven places in all of Scripture.
+
+**Ga'ya** - Like the shape of *tifḥa* but it is neither cantillation mark nor servant. It only occurs on the position of the accent, except when the word is in pause like לא יוכל (Deuteronomy 24:4). It only serves to extend some letters slightly and hold them with a slight accent to improve reading and pronunciation.
+
+**Dargen** - Also called *mihmaz* (spur)—it is also neither cantillation mark nor servant but serves to shake the letter it is on and prevent the ga'ya, because ga'ya extends the letter and the spur shakes it. It never exists except with *zaqef qatan* and is above the letter.
+
+## Chapter 16: On the Movements of Cantillation Marks
+
+The twelve cantillation marks are divided into three categories according to their movements: elevated (*a'lān*), lowered (*waḍ'*), and raised (*raf'*).
+
+### Elevated Marks
+- **Pazer, Telisha, Tarṣa, and Shalshelet** belong to this category
+- When you read a word with these cantillation marks, you raise the voice and elevate it upward with force
+
+### Lowered Marks  
+- **Yetiv, Zaqef, and Etnaḥta** belong to this category
+- When you read a word with these marks, you lower it and do not elevate the voice with it, but lower it with a quiet lowering
+
+### Raised Marks
+- **Zarka, Legarmeh, Revia, Tevir, Tifḥa, and Siluq** belong to this category
+- These are intermediate between elevated and lowered
+
+## Chapter 17: On the Alternation of Cantillation Marks
+
+The meaning of alternation (*tarāduf*) is when two *pazer*s occur together, one after another, or two *zaqef*s together, one after another, and the like.
+
+### Marks That Can Alternate
+Seven marks can alternate: **Pazer, Telisha, Yetiv, Legarmeh, Zaqef, Tevir, Zarka**.
+
+### Examples of Alternation
+- **Pazer** can occur as two together: "וַיְמַהֲרוּ וַיַּשְׁכִּימוּ" (Joshua 8:14)
+- **Telisha** alternates only in one place: "בֹּא הֵנָּה וַאֲשַׁלְּחָה אוֹתְךָ אֶל הַמֶּלֶךְ" (2 Samuel 14:32)
+- **Yetiv** can be two together: "וְאַתָּה וְאַהֲרֹן" (Exodus 24:1)
+
+## Chapter 18: On the Service of Servants and Cantillation Marks
+
+The meaning of service (*khidma*) is that the servant precedes the cantillation mark that it serves. For example, when the servant is in the first word and the served cantillation mark is in the second word, and the matter is not reversed.
+
+### The Shofar of Position
+- Serves six cantillation marks: **Pazer, Telisha, Tarṣa, Zarka, Revia, Yetiv, Tevir**
+- Does not serve others
+
+### The Shofar of Elevation  
+- Serves three cantillation marks only: **Etnaḥta, Zaqef, Zarka**
+- Also serves **Segola**
+
+### The Inverted Shofar
+- Serves only **Yetiv**
+
+### The Small Telisha
+- Serves only the great **Pazer**
+
+### The Left Telisha
+- Serves four cantillation marks: **Tarṣa, Yetiv, Zarka, Tevir**
+
+### Azla
+- Serves four cantillation marks: **Tarṣa, Yetiv, Zarka, Tevir**
+
+### Merkha
+- Serves six cantillation marks: **Yetiv, Zarka, Legarmeh, Tevir, Tifḥa, Siluq**
+
+### Darga
+- Serves two only: **Revia, Tevir**
+
+### Netuya
+- Serves two: **Etnaḥta, Siluq**
+
+## Chapter 19: On the Proximity of Cantillation Marks
+
+The meaning of proximity (*mujāwara*) is what is possible from cantillation marks that one of them comes after another without other cantillation marks separating them.
+
+### Proximity Rules
+- **Pazer** can be followed by: Telisha, Yetiv, Tevir, Tarṣa, Legarmeh
+- **Telisha** can be followed by: Tarṣa, Zarka, Yetiv, Tevir  
+- **Tarṣa** can be followed by: Revia, Telisha, Zarka, Legarmeh, Yetiv, Tevir
+- **Zaqef** can be followed by: Tifḥa, Tevir, Telisha, Yetiv, Revia, Tarṣa, Legarmeh, Etnaḥta, Siluq
+- **Etnaḥta** can be followed by: All cantillation marks
+- **Segola** can be followed by: Most cantillation marks except Etnaḥta, Tifḥa, Siluq
+- **Legarmeh** can be followed by: Revia, Tarṣa, Yetiv, Tevir
+- **Revia** can be followed by: Pazer, Telisha, Zarka, Yetiv, Tevir, Tifḥa (in one place only)
+- **Siluq** cannot be followed by anything because it is the end of the verse
+
+## Chapter 20: Special Rules for the Three Books
+
+The three books **Psalms, Job, and Proverbs** have different cantillation marks and servants. They have eight cantillation marks and ten servants.
+
+### Their Cantillation Marks
+1. **Pazer** - "The voice will scatter"
+2. **Revia** - "Will appear for cantillation marks"  
+3. **Legarmeh** - A staff from above with a pause hanging between them
+4. **Zarka** - "Will illuminate like faces and like a torch"
+5. **Yetiv** - Like an early staff for the king from below
+6. **Etnaḥta** - Restful and comfortable
+7. **Tifḥa** - A dot from above and a staff that does not move
+8. **Siluq** - "In it the end of the verse is known"
+
+### Their Ten Servants
+**Shofar, Shofar Mefazzez, Shofar Hafukh, Tsenorit, Maqel, Daḥuya, Shokhev, Netuya, Merkha, Shalshelet**
+
+### Special Verse
+There is one verse in these books that includes all the cantillation marks:
+
+> "עַל זֹאת יִתְפַּלֵּל כָּל חָסִיד אֵלֶיךָ לְעֵת מְצֹא רַק לְשֵׁטֶף מַיִם רַבִּים אֵלָיו לֹא יַגִּיעוּ" (Psalms 32:6)
+
+---
+
+## Conclusion
+
+This treatise has provided a comprehensive guide to Hebrew grammar and cantillation, covering:
+
+1. **Letter characteristics** and their points of articulation
+2. **Vowel systems** and their functions in Hebrew pronunciation  
+3. **Cantillation marks** and their musical and grammatical roles
+4. **Rules for dagesh and rafe** pronunciation
+5. **Detailed explanations** of Hebrew grammar and cantillation systems
+
+The work demonstrates the sophisticated understanding of Hebrew linguistics in medieval Arabic scholarship and provides essential knowledge for proper reading and understanding of Biblical Hebrew texts.
+
 ---
 
 *May the Mercies of Heaven be complete and not lacking*  
